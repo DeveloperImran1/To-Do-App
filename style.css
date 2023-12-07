@@ -1,0 +1,23 @@
+.container{
+    background-color:aquamarine;
+    border-radius:10px;
+}
+.logo img{
+    height:100px;
+    width:100px;
+    
+}
+.new-task-container{
+    background-color:white;
+    height:40px;
+    width:80%;
+    text-align:center;
+}
+.delete{
+    background-color:red;
+    color:white;
+    margin-left:40px;
+}
+ul{
+    list-style:none;
+}
